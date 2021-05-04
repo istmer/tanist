@@ -1,0 +1,2 @@
+# tanist
+Tanımlayıcı İstatistikler
